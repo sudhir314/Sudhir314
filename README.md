@@ -18,7 +18,7 @@
 
   <h3>🛠️ Technologies & Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,html,css,js,react,vscode,git,github&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,html,css,js,react,vscode,git,github,postman,idea&perline=14" />
   </a>
 
 </div>
